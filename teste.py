@@ -1,7 +1,8 @@
-import keyboard
+
 import time
 import mouseinfo
 
+
 while True:
-    print(mouseinfo.get_position())
+    print(mouseinfo.position())
     time.sleep(1)
