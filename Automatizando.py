@@ -34,8 +34,6 @@ pyautogui.sleep(2)
 
 pyautogui.alert("Programa encerrado. Pode voltar a usar porra")
 
-
-
 # Serve para que utilize combinações de teclas
 # pyautogui.hotkey('winleft', 'd')
 
